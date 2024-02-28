@@ -3,7 +3,7 @@ import { defineChain } from '../../utils/chain/defineChain.js'
 
 export const phoenix = /*#__PURE__*/ defineChain({
   id: 13381,
-  name: 'Phoenix Blockchain',
+  name: 'Phoenix',
   nativeCurrency: { name: 'Phoenix', symbol: 'PHX', decimals: 18 },
   rpcUrls: {
     default: {
